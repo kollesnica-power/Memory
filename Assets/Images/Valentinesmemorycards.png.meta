@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: b2f626315bdad3b429337b87e4025163
+timeCreated: 1496947564
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Valentinesmemorycards_0
+    21300002: Valentinesmemorycards_1
+    21300004: Valentinesmemorycards_2
+    21300006: Valentinesmemorycards_3
+    21300008: Valentinesmemorycards_4
+    21300010: Valentinesmemorycards_5
+    21300012: Valentinesmemorycards_6
+    21300014: Valentinesmemorycards_7
+    21300016: Valentinesmemorycards_8
+    21300018: Valentinesmemorycards_9
+    21300020: Valentinesmemorycards_10
+    21300022: Valentinesmemorycards_11
+    21300024: Valentinesmemorycards_12
+    21300026: Valentinesmemorycards_13
+    21300028: Valentinesmemorycards_14
+    21300030: Valentinesmemorycards_15
+    21300032: Valentinesmemorycards_16
+    21300034: Valentinesmemorycards_17
+    21300036: Valentinesmemorycards_18
+    21300038: Valentinesmemorycards_19
+    21300040: Valentinesmemorycards_20
+    21300042: Valentinesmemorycards_21
+    21300044: Valentinesmemorycards_22
+    21300046: Valentinesmemorycards_23
+    21300048: Valentinesmemorycards_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valentinesmemorycards_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1937
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.37598, y: 233}
+        - {x: -236.37598, y: -232.80861}
+        - {x: 236.5, y: -232.80861}
+        - {x: 236.5, y: 233}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1967
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 233}
+        - {x: -236.5, y: -232.80861}
+        - {x: 236.5, y: -232.80861}
+        - {x: 236.5, y: 233}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_2
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1957
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -235.9998, y: 233}
+        - {x: -235.9998, y: -232.80861}
+        - {x: 236, y: -232.80861}
+        - {x: 236, y: 233}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1944
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.39162, y: 232.5}
+        - {x: -236.39162, y: -232.5}
+        - {x: 236.5, y: -232.5}
+        - {x: 236.5, y: 232.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_4
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1955
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.2838, y: 232.5}
+        - {x: -222.2838, y: -232.5}
+        - {x: 222.5, y: -232.5}
+        - {x: 222.5, y: 232.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1469
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -236}
+        - {x: 236.5, y: -236}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1490
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -235.98445}
+        - {x: 236.5, y: -235.98445}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_7
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1466
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -235.98445}
+        - {x: 236.5, y: -235.98445}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_8
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1461
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.39162, y: 236}
+        - {x: -236.39162, y: -235.98445}
+        - {x: 236.5, y: -235.98445}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_9
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1477
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.2838, y: 236}
+        - {x: -222.2838, y: -235.98445}
+        - {x: 222.5, y: -235.98445}
+        - {x: 222.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1001
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.37598, y: 236}
+        - {x: -236.37598, y: -235.51958}
+        - {x: 236.5, y: -235.51958}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1004
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -235.67969}
+        - {x: 236.5, y: -235.67969}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 983
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -235.51958}
+        - {x: 236.5, y: -235.51958}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_13
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1009
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.39162, y: 236}
+        - {x: -236.39162, y: -235.51958}
+        - {x: 236.5, y: -235.51958}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_14
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 983
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.2838, y: 236}
+        - {x: -222.2838, y: -235.51958}
+        - {x: 222.5, y: -235.51958}
+        - {x: 222.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 525
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.37598, y: 236}
+        - {x: -236.37598, y: -236}
+        - {x: 236.5, y: -236}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 510
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -236}
+        - {x: 236.5, y: -236}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_17
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 515
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 236}
+        - {x: -236.5, y: -236}
+        - {x: 236.5, y: -236}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_18
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 481
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.39162, y: 236}
+        - {x: -236.39162, y: -236}
+        - {x: 236.5, y: -236}
+        - {x: 236.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_19
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 515
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.2838, y: 236}
+        - {x: -222.2838, y: -236}
+        - {x: 222.5, y: -236}
+        - {x: 222.5, y: 236}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.37598, y: 230}
+        - {x: -236.37598, y: -230}
+        - {x: 236.5, y: -230}
+        - {x: 236.5, y: 230}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 47
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 230}
+        - {x: -236.5, y: -230}
+        - {x: 236.5, y: -230}
+        - {x: 236.5, y: 230}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 26
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 230}
+        - {x: -236.5, y: -230}
+        - {x: 236.5, y: -230}
+        - {x: 236.5, y: 230}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_23
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 39
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.39162, y: 230}
+        - {x: -236.39162, y: -230}
+        - {x: 236.5, y: -230}
+        - {x: 236.5, y: 230}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Valentinesmemorycards_24
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 445
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222.2838, y: 230}
+        - {x: -222.2838, y: -230}
+        - {x: 222.5, y: -230}
+        - {x: 222.5, y: 230}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
